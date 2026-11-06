@@ -1,4 +1,7 @@
+<img src="koi/koi.gif" width="256" alt="My koi" />
+
 ## Hi there 👋
+
 
 <!--
 **Unlikeanypedro/Unlikeanypedro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
