@@ -38,8 +38,7 @@ Sou o Pedro, estudante de Engenharia de Software. Gosto de construir projetos do
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Unlikeanypedro&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unlikeanypedro&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top linguagens" />
+<a href="https://github.com/Unlikeanypedro?tab=followers"><img src="https://img.shields.io/github/followers/Unlikeanypedro?label=Seguidores&style=for-the-badge&logo=github&logoColor=white&labelColor=203a43&color=4FD1C5" alt="Seguidores no GitHub" /></a> <a href="https://github.com/Unlikeanypedro?tab=repositories"><img src="https://img.shields.io/github/last-commit/Unlikeanypedro/Unlikeanypedro?label=%C3%9Altima%20atividade&style=for-the-badge&logo=git&logoColor=white&labelColor=203a43&color=4FD1C5" alt="Última atividade" /></a>
 
 </div>
 
