@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=170&section=header&text=Pedro&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Estudante%20de%20Engenharia%20de%20Software&descSize=18&descAlignY=60" alt="Header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=170&section=header&text=Pedro Oliveira&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Estudante%20de%20Engenharia%20de%20Software&descSize=18&descAlignY=60" alt="Header" width="100%" />
 
 <img src="koi/koi.gif" alt="Koi" width="360" />
 
