@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=170&section=header&text=Pedro Oliveira&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Estudante%20de%20Engenharia%20de%20Software&descSize=18&descAlignY=60" alt="Header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=170&section=header&text=Pedro%20Oliveira&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Estudante%20de%20Engenharia%20de%20Software&descSize=18&descAlignY=60" alt="Header" width="100%" />
 
 <img src="koi/koi.gif" alt="Koi" width="360" />
 
@@ -51,12 +51,13 @@ Sou o Pedro, estudante de Engenharia de Software. Gosto de construir projetos do
   <img src="https://wakatime.com/badge/user/2f2c284a-e70c-4ebe-ba2a-e37caca47715.svg" alt="Tempo total de código no WakaTime" />
 </a>
 
+<br/><br/>
+
+<img width="48%" src="https://wakatime.com/share/@2f2c284a-e70c-4ebe-ba2a-e37caca47715/449b5cbb-013a-4bfb-9d00-484075996a07.svg" alt="WakaTime - gráfico 1" />
+<img width="48%" src="https://wakatime.com/share/@2f2c284a-e70c-4ebe-ba2a-e37caca47715/fa281603-9079-4ec5-a018-c13434cd2cd6.svg" alt="WakaTime - gráfico 2" />
+
 </div>
 
-<div align="center">
-  <figure><embed src="https://wakatime.com/share/@2f2c284a-e70c-4ebe-ba2a-e37caca47715/449b5cbb-013a-4bfb-9d00-484075996a07.svg"></embed></figure>
-  <figure><embed src="https://wakatime.com/share/@2f2c284a-e70c-4ebe-ba2a-e37caca47715/fa281603-9079-4ec5-a018-c13434cd2cd6.svg"></embed></figure>
-</div>
 ---
 
 <div align="center">
