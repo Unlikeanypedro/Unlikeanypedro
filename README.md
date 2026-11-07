@@ -53,9 +53,10 @@ Sou o Pedro, estudante de Engenharia de Software. Gosto de construir projetos do
 
 </div>
 
-<figure><embed src="https://wakatime.com/share/@2f2c284a-e70c-4ebe-ba2a-e37caca47715/449b5cbb-013a-4bfb-9d00-484075996a07.svg"></embed></figure>
-<figure><embed src="https://wakatime.com/share/@2f2c284a-e70c-4ebe-ba2a-e37caca47715/fa281603-9079-4ec5-a018-c13434cd2cd6.svg"></embed></figure>
-
+<div align="center">
+  <figure><embed src="https://wakatime.com/share/@2f2c284a-e70c-4ebe-ba2a-e37caca47715/449b5cbb-013a-4bfb-9d00-484075996a07.svg"></embed></figure>
+  <figure><embed src="https://wakatime.com/share/@2f2c284a-e70c-4ebe-ba2a-e37caca47715/fa281603-9079-4ec5-a018-c13434cd2cd6.svg"></embed></figure>
+</div>
 ---
 
 <div align="center">
